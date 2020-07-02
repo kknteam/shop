@@ -1,8 +1,8 @@
 <div class="content">
     <div class="user_menu">
-        <button class="hvr-box-shadow-inset" onclick="location.replace('index.php?a=ql_nhanVien.php')">Thêm nhân viên</button>  
-        <button class="hvr-box-shadow-inset" onclick="location.replace('index.php?a=ql_nhanVienDS.php')">Xem danh sách nhân viên</button>  
-    </div>  
+        <button class="hvr-box-shadow-inset" onclick="location.replace('admin.php?page=ql_nhanVien.php')">Thêm nhân viên</button>  
+        <button class="hvr-box-shadow-inset" onclick="location.replace('admin.php?page=ql_nhanVienDS.php')">Xem danh sách nhân viên</button>  
+    </div>
     <div class="user_info">
         <table class="p_table">
             <tr id="headline" style="background-color: #F89406; color: white;">

@@ -1,4 +1,4 @@
-<?php include("server.php");?>
+<?php include("subPage/admin_navigate.php"); ?>
 <div class="ptrProduct">			
 	<table class="p_table">
 		<tr id="headline" style="background-color: #0C1C83; color: white;">

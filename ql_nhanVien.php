@@ -1,7 +1,7 @@
 <div class="content">
     <div class="user_menu">
-        <button class="hvr-box-shadow-inset" onclick="location.replace('index.php?a=ql_nhanVien.php')">Thêm nhân viên</button>  
-        <button class="hvr-box-shadow-inset" onclick="location.replace('index.php?a=ql_nhanVienDS.php')">Xem danh sách nhân viên</button>  
+        <button class="hvr-box-shadow-inset" onclick="location.replace('admin.php?page=ql_nhanVien.php')">Thêm nhân viên</button>  
+        <button class="hvr-box-shadow-inset" onclick="location.replace('admin.php?page=ql_nhanVienDS.php')">Xem danh sách nhân viên</button>  
     </div>
     <div class="user_info">
     <table class="tab">
